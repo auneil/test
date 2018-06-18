@@ -1,6 +1,6 @@
 # test
 
-      <footer id="footer" class="navbar-fixed-bottom">
+      <footer id="footer" >
        <div class="container-fluid">
            <div class="row">
                <div class="col-sm-12">
@@ -15,7 +15,14 @@
                        <li><a href="">Link 5</a></li>
                    </ul>
                    
+                   
+                   
                </div>
+               <div class="col-sm-6">add a new line here</div>
+               
+               
            </div>
        </div>
       </footer>
+
+
