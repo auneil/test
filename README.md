@@ -1,28 +1,5 @@
 # test
 
-      <footer id="footer" >
-       <div class="container-fluid">
-           <div class="row">
-               <div class="col-sm-12">
-                   <ul class="footer-left">
-                       <li><a href="">Link 1</a></li>
-                       <li><a href="">Link 2</a></li>
-                   </ul>
-                   
-                   <ul class="footer-right">
-                       <li><a href="">Link 3</a></li>
-                       <li><a href="">Link 4</a></li>
-                       <li><a href="">Link 5</a></li>
-                   </ul>
-                   
-                   
-                   
-               </div>
-               <div class="col-sm-6">add a new line here</div>
-               
-               
-           </div>
-       </div>
-      </footer>
+this is a testing file for github
 
 
